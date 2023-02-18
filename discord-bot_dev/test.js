@@ -3,7 +3,7 @@ console.log(x);
 //BIG THINGS COMMING
 
 let bigThings = "f";
-
+let  r = 700;
 let aThing = "t";
 
 let smallThings = "Super late wtf";
