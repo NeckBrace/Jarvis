@@ -2,8 +2,8 @@ let x = "HOLY FUCK";
 console.log(x);
 //BIG THINGS COMMING
 
-let bigThings = "coming";
+let bigThings = "f";
 
-let aThing = "thing";
+let aThing = "t";
 
 let smallThings = "Super late wtf";
