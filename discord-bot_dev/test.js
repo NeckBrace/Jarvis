@@ -4,4 +4,6 @@ console.log(x);
 
 let bigThings = "coming";
 
+let aThing = "thing";
+
 let smallThings = "Super late wtf";
