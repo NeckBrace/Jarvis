@@ -4,6 +4,7 @@ console.log(x);
 
 let bigThings = "f";
 let  r = 700;
+let  y = 700;
 let aThing = "t";
 
 let smallThings = "Super late wtf";
